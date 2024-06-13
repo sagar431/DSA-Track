@@ -1,4 +1,5 @@
-Sure! Here's a detailed six-month data structures and algorithms learning roadmap formatted for a GitHub README, complete with emojis:
+![MasterHead](https://github.com/sagar431/DSA-Track/assets/36654027/c28bd2bb-d6e3-4e81-a37a-4b7c8ebf4dec)
+
 
 ---
 
